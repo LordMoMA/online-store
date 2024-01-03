@@ -57,7 +57,7 @@
         Copyright - <a class="text-reset fw-bold text-decoration-none" target="_blank"
           href="https://twitter.com/danielgarax">
           David Lee
-        </a> - <b></b>
+        <!-- </a> - <b></b> -->
       </small>
     </div>
   </div>
